@@ -1,0 +1,5 @@
+n=int(input("enter the value of n"))
+if(n%2==0):
+    print("enter the value is even")
+else:
+    print("enter the value is odd")
