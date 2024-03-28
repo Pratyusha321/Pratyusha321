@@ -1,0 +1,6 @@
+#lower/UPPER
+str= 'VijaY'
+print(str.upper())
+str='studentsZ'
+print(max(str))
+print(min(str))
