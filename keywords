@@ -1,0 +1,12 @@
+#lower/UPPER
+str= 'VijaY'
+print(str.upper())
+str='studentsZ'
+print(max(str))
+print(min(str))
+#replace
+str="hlo hlo hlo hii"
+print(str.replace('hlo hii','bye hlo'))
+print(ord('r'))
+print(chr(67))
+print(chr(122))
